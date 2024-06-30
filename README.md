@@ -10,6 +10,11 @@ This Flutter project demonstrates integrating Stripe, PayPal, and Square payment
 - **⚠️ Error Handling**: Manages payment failures and network errors with retry mechanisms and detailed error logging.
 - **🛠️ Scalable Backend**: Node.js Firebase Cloud Function (`payments.js`) handles payment webhooks for scalability.
 
+## 📽 Preview
+
+![App Demo](preview/flutter_pay.gif)
+
+
 ## 🏗️ Project Structure
 
 - `lib/`
