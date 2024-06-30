@@ -30,7 +30,7 @@ This Flutter project demonstrates integrating Stripe, PayPal, and Square payment
 - Enter payment details in the respective screens, handled securely via Firebase Cloud Functions.
 - The app provides feedback on successful payments and error messages for failed transactions.
 
-## 💻 `payments.js` (Firebase Cloud Function)
+## ☁️ `payments.js` (Firebase Cloud Function)
 
 A Node.js script deployed as a Firebase Cloud Function (`payments.js`) to handle payment webhooks securely.
 
